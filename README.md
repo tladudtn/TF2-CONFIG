@@ -12,15 +12,11 @@
 ./Steam/steamapps/common/Team Fortress 2/tf
 ```
 
-
-
 ### START OPTIONS
 
 ```cfg
 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 ```
-
-
 
 ### CUSTOMIZE
 
@@ -35,8 +31,12 @@ tf/cfg/user/modules.cfg
 tf/cfg/user/<tf2 class name>.cfg
 ```
 
+## FPS DATA
 
+Ryzen 1700 / DDR4 2666 8G x3 / GTX 1050  
 
-### mastercomfig DOCS
+MGE (AVG : 144)
+![MGE](./imgs/FpsData_MGE.png)
 
-[mastercomfig Docs](https://docs.mastercomfig.com/en/stable/)
+SWIFTWATER
+![SWIFTWATER](./imgs/FpsData_SWIFTWATER.png)
