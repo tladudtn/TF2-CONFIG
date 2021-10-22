@@ -17,7 +17,7 @@
 ### START OPTIONS
 
 ```cfg
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -nostartupsound 
+-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 ```
 
 
@@ -26,14 +26,13 @@
 
 ```bash
 # 개인설정(binds, other commands)
-tf/cfg/user/game_overrides.cfg
 tf/cfg/user/autoexec.cfg
-
-# TF2 class config
-tf/cfg/user/<tf2 class name>.cfg
 
 # mastercomfig moudules
 tf/cfg/user/modules.cfg
+
+# TF2 class config
+tf/cfg/user/<tf2 class name>.cfg
 ```
 
 
