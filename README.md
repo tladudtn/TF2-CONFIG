@@ -40,3 +40,6 @@ MGE (AVG : 144)
 
 SWIFTWATER
 ![SWIFTWATER](./imgs/FpsData_SWIFTWATER.png)
+
+BADWATER
+![BADWATER](./imgs/FpsData_BADWATER.png)
