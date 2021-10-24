@@ -42,4 +42,4 @@ SWIFTWATER
 ![SWIFTWATER](./imgs/FpsData_SWIFTWATER.png)
 
 BADWATER
-![BADWATER](./imgs/FpsData_BADWATER.png)
+![BADWATER](./imgs/FpsData_BadWater.png)
