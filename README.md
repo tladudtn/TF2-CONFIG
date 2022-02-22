@@ -33,7 +33,7 @@ tf/cfg/user/<tf2 class name>.cfg
 
 ## FPS DATA
 
-Ryzen 1700 / DDR4 2666 8G x3 / GTX 1050  
+Ryzen 1700(None OC) / DDR4 3200 8G x2(16G) / GTX 1050(Nvidia 511.xx_
 
 MGE (AVG : 144)
 ![MGE](./imgs/FpsData_MGE.png)
@@ -43,3 +43,5 @@ SWIFTWATER
 
 BADWATER
 ![BADWATER](./imgs/FpsData_BadWater.png)
+
+Casual FPS 60~143(maybe avg fps 60~90)
