@@ -44,4 +44,4 @@ SWIFTWATER
 BADWATER
 ![BADWATER](./imgs/FpsData_BadWater.png)
 
-Casual FPS 60~143(maybe avg fps 60~90)
+Casual FPS `60~143`(maybe avg fps `60~90`)
